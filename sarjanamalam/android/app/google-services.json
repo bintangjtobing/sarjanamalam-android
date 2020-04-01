@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "544855069309",
+    "firebase_url": "https://sarjanamalam.firebaseio.com",
+    "project_id": "sarjanamalam",
+    "storage_bucket": "sarjanamalam.appspot.com"
+  },
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:544855069309:android:d8e3f1b9f611e1a2ba5714",
+      "android_client_info": {
+        "package_name": "com.sarjanamalam.platform"
+      }
+    },
+    "oauth_client": [{
+        "client_id": "544855069309-8an21urvqqh0kbcmlonlhlhi6f4soctj.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.sarjanamalam.platform",
+          "certificate_hash": "1c2bcb77d4fe96a07c32be8f4e861c2130747dbc"
+        }
+      },
+      {
+        "client_id": "544855069309-652sfbkgi4pe6fse0n5u2nk0pagq3eeu.apps.googleusercontent.com",
+        "client_type": 3
+      }
+    ],
+    "api_key": [{
+      "current_key": "AIzaSyDdsD31q_MdhXMYWhirG7o57RlIwnqi-IM"
+    }],
+    "services": {
+      "appinvite_service": {
+        "other_platform_oauth_client": [{
+          "client_id": "544855069309-652sfbkgi4pe6fse0n5u2nk0pagq3eeu.apps.googleusercontent.com",
+          "client_type": 3
+        }]
+      }
+    }
+  }],
+  "configuration_version": "1"
+}
