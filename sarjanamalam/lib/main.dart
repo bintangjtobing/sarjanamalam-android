@@ -27,7 +27,9 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Container(
         width: double.infinity,
-        child: Column(children: <Widget>[
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
           new Image.asset("images/logo.png"),
           new Image.asset("img/google-sign-in.png"),
         ],)
